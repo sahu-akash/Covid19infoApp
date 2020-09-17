@@ -1,3 +1,5 @@
+The application is deployed on Firebase cloud and url to access > https://covid19trackr.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
